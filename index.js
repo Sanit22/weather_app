@@ -14,16 +14,6 @@ const cityMap = document.getElementById('city-map-value');
 const searchCityForm = document.getElementById("search-city-form");
 const airQualityDiv = document.getElementById('air-quality-div');
 
-const API_KEY = "5d8b7e624b2bb15101986e291c17564b";
-// form auto submission
-
-// document.addEventListener('DOMContentLoaded', function() {
-//     if (!localStorage.getItem('formSubmitted')) {
-//         searchCityForm.submit();
-//         localStorage.setItem('formSubmitted', 'true');
-//       }
-//   });
-
 
 
 
